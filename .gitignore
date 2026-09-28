@@ -1,0 +1,9 @@
+# Кэши, данные и веса моделей в репозиторий не входят.
+__pycache__/
+*.pyc
+data/*.parquet
+models/
+*.pkl
+*.npy
+.venv/
+notebooks/.ipynb_checkpoints/
